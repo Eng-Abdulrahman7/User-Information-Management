@@ -1,0 +1,6 @@
+body { font-family: sans-serif; max-width: 750px; margin: auto; }
+form input { margin: 5px; padding: 6px; }
+table { width: 100%; border-collapse: collapse; margin-top: 15px; }
+th, td { border: 1px solid #aaa; padding: 6px 8px; text-align: center; }
+.toggleBtn { padding: 4px 10px; cursor: pointer; }
+.status { font-weight: bold; }
